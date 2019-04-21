@@ -1,4 +1,12 @@
 # Minutes and debate auto recorder AI
 This is prototype This is prototype This is prototype
 
-This idea is to create minutes using artificial intelligence. There are various types of meetings, such as laboratory meetings, problem solving meetings, interest adjustment meetings, planning meetings and inter-company meetings. During most meetings, you will record a voice or a clerk to keep a record of the process and results of the meeting. If you listen to the recorded minutes again, you will have to listen to the contents of the meeting for a long time. If there is a clerk of the meeting and the clerk writes the minutes, clerk may omit the details of the meeting. However, if AI replaces the writing process or the recording process in the meeting minutes, you can reduce the amount of the time spending and the missed contents of the meeting. Minutes record AI utilizes the voice APIs supported by Microsoft Azure. It is a software that divides the speakers individually and converts them into minutes and then converts them to a complete minutes in time sequence.
+you should record a voice or keep writing a record of the process and results of the meeting During most of business meetings 
+If you listen to the recorded minutes again, you will have to listen to the contents of the meeting for a long time, meaninglessly. 
+If there is a clerk of the meeting and the clerk writes the minutes, clerk may omit the details of the meeting.
+
+
+However, if AI replaces the writing and recording process in the meeting minutes?
+you can dramatically reduce the amount of the time consuming jobs and the missed contents of the meeting!
+
+
